@@ -8,5 +8,5 @@
 
 ### Cadmium for Kitty
 
-![image](Kitty/Screenshot_20240320_202328.png)
+![image](Kitty/Screenshot_20240522_144733.png)
 Cadmium was originally inspired by the VSC*de theme https://github.com/josefaidt/rouge-theme
