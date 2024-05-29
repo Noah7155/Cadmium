@@ -12,4 +12,6 @@
 
 ### Plasma
 
+![image](KDE_Plasma/Screenshot_20240528_223307.png)
+
 Cadmium was inspired by the VSC*de theme https://github.com/josefaidt/rouge-theme
