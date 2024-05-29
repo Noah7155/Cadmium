@@ -1,0 +1,119 @@
+[ColorEffects:Disabled]
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=30,34,42
+BackgroundNormal=30,34,42
+DecorationFocus=198,121,126
+DecorationHover=198,121,126
+ForegroundActive=11,124,183
+ForegroundInactive=189,195,199
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=250, 255, 246
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=18,18,18
+BackgroundNormal=27,27,27
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=246,116,0
+ForegroundInactive=175,176,179
+ForegroundLink=61,174,230
+ForegroundNegative=237,21,21
+ForegroundNeutral=250, 255, 246
+ForegroundNormal=250, 255, 246
+ForegroundPositive=17,209,22
+ForegroundVisited=61,174,230
+
+[Colors:Selection]
+BackgroundAlternate=29,153,243
+BackgroundNormal=198,121,126
+DecorationFocus=198,121,126
+DecorationHover=198,121,126
+ForegroundActive=252,252,252
+ForegroundInactive=239,240,241
+ForegroundLink=253,188,75
+ForegroundNegative=253,188,75
+ForegroundNeutral=253,188,75
+ForegroundNormal=250, 255, 246
+ForegroundPositive=39,174,96
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=30,34,42
+BackgroundNormal=30,34,42
+DecorationFocus=0,144,133
+DecorationHover=0,153,135
+ForegroundActive=11,124,183
+ForegroundInactive=189,195,199
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=250, 255, 246
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=30,34,42
+BackgroundNormal=30,34,42
+DecorationFocus=30,34,42
+DecorationHover=30,34,42
+ForegroundActive=11,124,183
+ForegroundInactive=189,195,199
+ForegroundLink=110,148,155
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=250, 255, 246
+ForegroundPositive=39,174,96
+ForegroundVisited=177,139,177
+
+[Colors:Window]
+BackgroundAlternate=30,34,42
+BackgroundNormal=30,34,42
+DecorationFocus=30,34,42
+DecorationHover=30,34,42
+ForegroundActive=30,34,42
+ForegroundInactive=250,255,246
+ForegroundLink=110, 148, 185
+ForegroundNegative=250, 255, 246
+ForegroundNeutral=250, 255, 246
+ForegroundNormal=250,255,246
+ForegroundPositive=250, 255, 246
+ForegroundVisited=250, 255, 246
+
+[General]
+ColorScheme=Cadmium
+Name=Cadmium
+shadeSortColumn=true
+
+[KDE]
+contrast=4
+
+[WM]
+activeBackground=30,34,42
+activeBlend=255,255,255
+activeForeground=250,255,246
+inactiveBackground=30,34,42
+inactiveBlend=75,71,67
+inactiveForeground=120,120,120
